@@ -1,6 +1,6 @@
 {
     "functions": {
-        "api/quotes/**/*.js": {
+        "pages/api/quotes/**/*.js": {
             "includeFiles": "quotes.yaml"
         }
     }
